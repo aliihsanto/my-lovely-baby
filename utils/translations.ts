@@ -5,7 +5,7 @@ export const translations = {
   common: {
     phone_display: "+90 533 671 40 55",
     phone_link: "905336714055",
-    email: "info@mylovelybaby.com.tr",
+    email: "info@kirlangichijyenurunleri.com.tr",
     email_copied: "Email address copied to clipboard"
   },
   ru: {
